@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a8a822b-161c-4797-b0c0-ca582c333b8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Collections/untitled/src/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha2/ficha2/src/ArrayUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha2/ficha2/src/NumericalUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha3/untitled/src/CaesarCipherDecipherer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha3/untitled/src/CharaterUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha4/untitled/src/CharacterDrawingUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha4/untitled/src/MatrixUtilites.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha5/untitled/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha5/untitled/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha5/untitled/src/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha6/untitled/src/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha6/untitled/src/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha6/untitled/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha6/untitled/src/PointComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha6/untitled/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha6/untitled/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha6/untitled/src/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha6/untitled/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ficha7/src/pt/uma/tspi/arqd/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ficha7/src/pt/uma/tspi/arqd/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ficha7/src/pt/uma/tspi/arqd/Rational.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ficha7/src/pt/uma/tspi/arqd/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ficha7/src/pt/uma/tspi/arqd/StudentsComparatorByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ficha7/src/pt/uma/tspi/arqd/StudentsComparatorByNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha8/SmartTermo/src/termostato.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficha8/SmartTermo/src/termostato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_char/untitled/src/increment.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I6LnHKY5ADLAbIZtTeYrZQ9jSU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Francisco Ferreira/Documents/GitHub/arquitetura_2040221/ficha6"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a8a822b-161c-4797-b0c0-ca582c333b8e" name="Changes" comment="" />
+      <created>1669497251938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669497251938</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

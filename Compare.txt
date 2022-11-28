@@ -1,0 +1,19 @@
+COMPARABLE
+
+Implements
+
+-compareTo
+	|->  0(==), > 0(a>b),<0(a<b)
+
+-> Comparação por omissão de um tipo
+
+-------------------------------------------------------------
+
+COMPARATOR
+
+Implements
+
+-compare
+	|-> 0(==), > 0(a>b),<0(a<b)
+
+-> Forma adicional de comparação
