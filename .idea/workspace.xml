@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4caa6927-29c8-45f4-9c1b-f018f4895f7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Projeto/core/src/pt/uma/arq/game/Laser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/core/src/pt/uma/arq/entities/Fleet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto/core/src/pt/uma/arq/entities/Fleet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/core/src/pt/uma/arq/entities/LargeShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto/core/src/pt/uma/arq/entities/LargeShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/core/src/pt/uma/arq/entities/MediumShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto/core/src/pt/uma/arq/entities/MediumShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/core/src/pt/uma/arq/entities/PlayerShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto/core/src/pt/uma/arq/entities/PlayerShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/core/src/pt/uma/arq/entities/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto/core/src/pt/uma/arq/entities/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/core/src/pt/uma/arq/entities/SmallShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto/core/src/pt/uma/arq/entities/SmallShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/core/src/pt/uma/arq/entities/shoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/core/src/pt/uma/arq/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto/core/src/pt/uma/arq/game/Game.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2IPmOdL8uEJVnVkfmekXL0J34HW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Francisco Ferreira/Documents/GitHub/arquitetura_2040221/Projeto"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4caa6927-29c8-45f4-9c1b-f018f4895f7d" name="Changes" comment="" />
+      <created>1670091561551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670091561551</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
